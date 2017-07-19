@@ -1,0 +1,30 @@
+body {
+margin: 0;
+}
+.Nav {
+  margin: 0px;
+   height: 50px;
+   background: #e2e2e2;
+   color: white;
+}
+
+
+.Nav-navlist {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  text-decoration: none;
+
+}
+
+ul {
+  margin: 0;
+  list-style: none;
+  color: white;
+}
+a {
+    color: white;
+}
+li {
+  padding-top: 10px;
+}
